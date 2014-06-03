@@ -1,0 +1,9 @@
+#include 
+using namespace std; 
+int main(int argc, char *argv[]) 
+{             
+std::cout << "Hola mundo" << endl;             
+return 0; }
+
+URL del artículo: http://www.ejemplode.com/28-c/c++/137-ejemplo_de_hola_mundo_en_c_y_c++.html
+Leer completo: Ejemplo de Hola Mundo en C y C++
